@@ -1,0 +1,2 @@
+# sql-example2
+This example shows basic Query Clauses. here are several clauses (components) that make up the SELECT statement. Only one is mandatory - SELECT but of course you will usually use a few to access information you wanted Query clauses: SELECT - which column to include FROM - which table and how the tables should be joined WHERE - filters unwanted data GROUP BY - group rows together by common column values HAVING - filters unwanted groups ORDER BY - sorts
